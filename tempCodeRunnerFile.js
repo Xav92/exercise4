@@ -1,0 +1,1 @@
+  await mongoose.connect(uri);
